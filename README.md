@@ -103,7 +103,7 @@ tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah diimpor
 ## 🔗 **Reference**
  - [Kimia Farma](https://www.kimiafarma.co.id/)
  - [Rakamin](https://www.rakamin.com/virtual-internship-experience/kimiafarma-big-data-analytics-virtual-internship-program)
- - [Video Presentasi]()
+ - [Video Presentasi](https://www.youtube.com/watch?v=-YhiBNG6Lz8)
  - [Dashboard Analytic Google Looker Studio](https://lookerstudio.google.com/reporting/22984c16-285a-4a42-9539-fd98e1739496)
 
 ---
