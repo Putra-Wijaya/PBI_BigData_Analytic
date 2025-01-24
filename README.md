@@ -111,3 +111,9 @@ tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah diimpor
 ## 📧 **Kontak**
  - [Github](https://github.com)
  - [LinkedIn](https://www.linkedin.com/in/putra-wijaya-b5b8a41a7/)
+
+---
+Terima Kasih🙏
+
+
+
