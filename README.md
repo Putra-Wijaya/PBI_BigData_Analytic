@@ -109,7 +109,7 @@ tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah diimpor
 ---
 
 ## 📧 **Kontak**
- - [Github](https://github.com)
+ - [Github]([https://github.com](https://github.com/Putra-Wijaya))
  - [LinkedIn](https://www.linkedin.com/in/putra-wijaya-b5b8a41a7/)
 
 ---
